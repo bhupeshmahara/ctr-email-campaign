@@ -1,4 +1,4 @@
-# JOB-A-THON - August 2022
+# Analytics Vidhya JOB-A-THON - August 2022
 
 ## Predict CTR of an Email Campaign
 
