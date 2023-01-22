@@ -75,7 +75,3 @@ sample_submission.csv contains 2 variables - campaign id and click_rate
 ## Evaluation metric
 
 The evaluation metric for this hackathon would be r2_score.
-
-## Public and Private Split
-
-Test data is further divided into Public (40%) and Private (60%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
